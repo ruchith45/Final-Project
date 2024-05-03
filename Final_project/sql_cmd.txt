@@ -1,0 +1,45 @@
+Reviews table:
+
+CREATE DATABASE reviews;
+use reviews;
+drop table reviews;
+CREATE TABLE reviews  (
+revID int not null primary key,
+review_title varchar(128),
+film_title varchar(128),
+author_name varchar(32),
+contributing_author_name varchar (32),
+photo_filename varchar(128),
+release_date date,
+version_information decimal(10.2),
+review_body text,
+movie_rating varchar(8),
+number_of_stars decimal(2.1)
+);
+
+SHOW VARIABLES LIKE 'secure_file_priv';
+
+LOAD XML INFILE "C:\ProgramData\MySQL\MySQL Server 8.0\Uploads\review_data_file.xml" into table reviews rows identified by '<review>';
+
+select * from reviews;
+
+
+
+Users Table:
+
+use reviews;
+CREATE TABLE users (
+	userID int NOT NULL auto_increment,
+    name varchar(128),
+    email varchar(128),
+	password varchar(128),
+    creation_date Date,
+    privilege int,
+    primary key(userID));
+    
+    
+    
+insert into users values(1, 'user1', 'user1@gmail.com', 'pass1', '2023-05-01', 1);
+
+
+

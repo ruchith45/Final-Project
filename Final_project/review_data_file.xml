@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<reviews>
+
+    <review revID="1">
+        <review_title>Dune: A New Science Fiction Experience</review_title>
+        <film_title>Dune</film_title>
+        <author_name>Joesph Venport</author_name>
+        <contributing_author_name></contributing_author_name>
+        <photo_filename>spice.png</photo_filename>
+        <release_date>2021-10-22</release_date>
+        <version_information></version_information>
+        <review_body>Dune is a great movie. It takes Frank Herbert's vision and breaths a new life into it. 
+        </review_body>
+        <movie_rating>PG-13</movie_rating>
+        <number_of_stars>4</number_of_stars>
+    </review>
+
+    <review revID="2">
+        <review_title>Star Wars, A New Hope: fun for everyone</review_title>
+        <film_title>Star Wars, A New Hope</film_title>
+        <author_name>Joesph Venport</author_name>
+        <contributing_author_name>James Krennick</contributing_author_name>
+        <photo_filename>lightsaber.png</photo_filename>
+        <release_date>1977-05-25</release_date>
+        <version_information></version_information>
+        <review_body>Who doesn't love Star Wars! This movie captured the hearts and mind of a planet and set our eyes to a galaxy far far away. 
+        </review_body>
+        <movie_rating>PG</movie_rating>
+        <number_of_stars>5</number_of_stars>
+    </review>
+
+    <review revID="3">
+        <review_title>The Matrix: Defining an style</review_title>
+        <film_title>The Matrix</film_title>
+        <author_name>Moebius</author_name>
+        <contributing_author_name></contributing_author_name>
+        <photo_filename>matrix.png</photo_filename>
+        <release_date>1999-03-31</release_date>
+        <version_information></version_information>
+        <review_body>The Matrix was a defining movie for the 90s. Everyone has tried to dodge something like Neo at least once in their lives. 
+        </review_body>
+        <movie_rating>R</movie_rating>
+        <number_of_stars>4</number_of_stars>
+    </review>
+
+
+    <review revID="4">
+        <review_title>Pacific Rim: Kaiju Battles Are Still Fun</review_title>
+        <film_title>Pacific Rim</film_title>
+        <author_name>Moebius</author_name>
+        <contributing_author_name></contributing_author_name>
+        <photo_filename>GiantRobot.png</photo_filename>
+        <release_date>2013-07-12</release_date>
+        <version_information></version_information>
+        <review_body>Giant robots punching giant monsters. 
+        </review_body>
+        <movie_rating>PG-13</movie_rating>
+        <number_of_stars>4</number_of_stars>
+    </review>
+    
+    <review revID="5">
+        <review_title>Alien: It can hear you scream</review_title>
+        <film_title>Alien</film_title>
+        <author_name>Ridley Weaver</author_name>
+        <contributing_author_name>Tom Hurt</contributing_author_name>
+        <photo_filename>Alien.png</photo_filename>
+        <release_date>1979-05-25</release_date>
+        <version_information></version_information>
+        <review_body>In shocking contrast to Star Wars and Star Trek Ridly Scott reminds you that space is a scary place. 
+        </review_body>
+        <movie_rating>R</movie_rating>
+        <number_of_stars>3</number_of_stars>
+    </review>
+    
+    <review revID="6">
+        <review_title>Star Wars, Empire Strikes Back: A win for the villains.</review_title>
+        <film_title>Star Wars, Empire Strike Back</film_title>
+        <author_name>Joesph Venport</author_name>
+        <contributing_author_name>George Fisher</contributing_author_name>
+        <photo_filename>Carbonite.png</photo_filename>
+        <release_date>1980-05-21</release_date>
+        <version_information></version_information>
+        <review_body>In shocking contrast to the hero;s story that the first movie was Empire Strikes Back does indeed remind us why the empire is feared.  
+        </review_body>
+        <movie_rating>PG</movie_rating>
+        <number_of_stars>4</number_of_stars>
+    </review>
+    
+    <review revID="7">
+        <review_title>The Thing: it could be anyone</review_title>
+        <film_title>The Thing</film_title>
+        <author_name>Ridley Weaver</author_name>
+        <contributing_author_name>Moebius</contributing_author_name>
+        <photo_filename>thing.png</photo_filename>
+        <release_date>1982-06-25</release_date>
+        <version_information></version_information>
+        <review_body>A paranoia driving movie which puts humanity to the test. Can they figure out who is the thing or will the planet perish? 
+        </review_body>
+        <movie_rating>R</movie_rating>
+        <number_of_stars>4</number_of_stars>
+    </review>
+    
+    <review revID="8">
+        <review_title>Jurassic Park: We love Dinosaurs</review_title>
+        <film_title>Jurassic Park</film_title>
+        <author_name>Moebius</author_name>
+        <contributing_author_name>Joesph Venport</contributing_author_name>
+        <photo_filename>TRex.png</photo_filename>
+        <release_date>1993-06-11</release_date>
+        <version_information></version_information>
+        <review_body>Welcome to Jurassic Park, the movie that made billions of little boys decide that they love dinosaurs for all their adolesence.  
+        </review_body>
+        <movie_rating>PG-13</movie_rating>
+        <number_of_stars>5</number_of_stars>
+    </review>
+    
+    <review revID="9">
+        <review_title>E.T the Extra-Terrestrial: Earth's Friend</review_title>
+        <film_title>E.T the Extra-Terrestrial</film_title>
+        <author_name>Joesph Venport</author_name>
+        <contributing_author_name></contributing_author_name>
+        <photo_filename>ET.png</photo_filename>
+        <release_date>1982-06-11</release_date>
+        <version_information></version_information>
+        <review_body>E.T an emotional journey about a boy becoming friends with an alien.   
+        </review_body>
+        <movie_rating>PG</movie_rating>
+        <number_of_stars>3</number_of_stars>
+    </review>
+    
+    <review revID="10">
+        <review_title>Terminator 2 Judgment Day: The First Sequel better than the original</review_title>
+        <film_title>Terminator 2: Judgment Day</film_title>
+        <author_name>Joesph Venport</author_name>
+        <contributing_author_name>Ridley Weaver</contributing_author_name>
+        <photo_filename>Terminator.png</photo_filename>
+        <release_date>1991-07-03</release_date>
+        <version_information></version_information>
+        <review_body>This movie has some of the best actions scenes of all movies. The liquid metal terminator is just cool.   
+        </review_body>
+        <movie_rating>R</movie_rating>
+        <number_of_stars>5</number_of_stars>
+    </review>
+    
+    <review revID="11">
+        <review_title>Back to the Future: Time travel can be Fun also</review_title>
+        <film_title>Back to the Future</film_title>
+        <author_name>Ridley Weaver</author_name>
+        <contributing_author_name></contributing_author_name>
+        <photo_filename>DocBrown.png</photo_filename>
+        <release_date>1985-07-03</release_date>
+        <version_information></version_information>
+        <review_body>A fun movie about time travel with plenty of great jokes that captured the minds of people with time travel.    
+        </review_body>
+        <movie_rating>PG</movie_rating>
+        <number_of_stars>5</number_of_stars>
+    </review>
+    
+    <review revID="12">
+        <review_title>Wall-E: A friendly robot from the future</review_title>
+        <film_title>Wall-E</film_title>
+        <author_name>Moebius</author_name>
+        <contributing_author_name></contributing_author_name>
+        <photo_filename>WallE.png</photo_filename>
+        <release_date>2008-06-27</release_date>
+        <version_information></version_information>
+        <review_body>A fun kids movie with a suprisingly deep message regarding the consequences of excess and polution. 
+        </review_body>
+        <movie_rating>G</movie_rating>
+        <number_of_stars>5</number_of_stars>
+    </review>
+    
+    <review revID="13">
+        <review_title>Inception: The movie that still confuses you</review_title>
+        <film_title>Inception</film_title>
+        <author_name>Moebius</author_name>
+        <contributing_author_name></contributing_author_name>
+        <photo_filename>Dreams.png</photo_filename>
+        <release_date>2010-07-13</release_date>
+        <version_information></version_information>
+        <review_body>A mind bending sci fi thriller that delves into dreamscapes that has anyone who watches it wonder "am I dreaming?" 
+        </review_body>
+        <movie_rating>PG-13</movie_rating>
+        <number_of_stars>5</number_of_stars>
+    </review>
+    
+    <review .="14">
+        <review_title>Men in Black: Here they come</review_title>
+        <film_title>Men in Black</film_title>
+        <author_name>Joesph Venport</author_name>
+        <contributing_author_name></contributing_author_name>
+        <photo_filename>MenInBlack.png</photo_filename>
+        <release_date>1997-07-02</release_date>
+        <version_information></version_information>
+        <review_body>The best secret keepers in the universe, the Men in Black will protect you from any UFOs or close encounters. 
+        </review_body>
+        <movie_rating>PG-13</movie_rating>
+        <number_of_stars>4</number_of_stars>
+    </review>
+
+</reviews>
